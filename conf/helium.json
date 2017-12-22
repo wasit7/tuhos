@@ -1,0 +1,14 @@
+{
+  "registry": [
+    {
+      "class": "org.apache.zeppelin.helium.HeliumLocalRegistry",
+      "uri": "/zeppelin/helium",
+      "name": "local"
+    }
+  ],
+  "enabled": {
+    "echo-spell": "/zeppelin/helium/zeppelin-example-spell-echo",
+    "markdown-spell": "/zeppelin/helium/zeppelin-example-spell-markdown"
+  },
+  "visualizationDisplayOrder": []
+}
