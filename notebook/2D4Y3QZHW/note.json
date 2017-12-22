@@ -879,51 +879,42 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "dateUpdated": "Dec 22, 2017 9:52:53 AM",
-      "config": {
-        "colWidth": 12.0,
-        "editorMode": "ace/mode/scala",
-        "results": {},
-        "enabled": true,
-        "editorSetting": {
-          "language": "scala"
-        }
-      },
+      "user": "anonymous",
+      "config": {},
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1513936373291_-1253305289",
-      "id": "20171221-144159_24557096",
-      "dateCreated": "Dec 22, 2017 9:52:53 AM",
+      "jobName": "paragraph_1513936777786_-1174681885",
+      "id": "20171222-095937_93982680",
+      "dateCreated": "Dec 22, 2017 9:59:37 AM",
       "status": "READY",
-      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     }
   ],
   "name": "POC",
   "id": "2D4Y3QZHW",
   "angularObjects": {
-    "2CZ8WQA91:shared_process": [],
-    "2D1D9SE3R:shared_process": [],
-    "2D3KPPRPN:shared_process": [],
-    "2D3DHYBD1:shared_process": [],
-    "2D3AUAJ8X:shared_process": [],
-    "2D39SV2QN:shared_process": [],
-    "2CZRCWGJ8:shared_process": [],
-    "2D3AVAS2N:shared_process": [],
-    "2D3NA1YYE:shared_process": [],
-    "2D1WEKBK6:shared_process": [],
-    "2D3AT8RZH:shared_process": [],
-    "2D3AFP3WC:shared_process": [],
-    "2D1Q4WXG6:shared_process": [],
-    "2CZQBYNE5:shared_process": [],
-    "2D1656ARS:shared_process": [],
-    "2CZ417EHV:shared_process": [],
-    "2D25HBB2R:shared_process": [],
-    "2D3RWCY6C:shared_process": [],
-    "2D2ZEH8K5:shared_process": []
+    "2D41ZMTHP:shared_process": [],
+    "2D4F97DSK:shared_process": [],
+    "2D1CU5SBD:shared_process": [],
+    "2D3MQYPZN:shared_process": [],
+    "2D3VC5B1S:shared_process": [],
+    "2D3GQQF35:shared_process": [],
+    "2D1QA39E3:shared_process": [],
+    "2D4RJ3968:shared_process": [],
+    "2D4921AAP:shared_process": [],
+    "2CZZ8A7WZ:shared_process": [],
+    "2D2PTFQ9U:shared_process": [],
+    "2D38VMGYS:shared_process": [],
+    "2D4DWT4BA:shared_process": [],
+    "2D2PNSRFN:shared_process": [],
+    "2D1BSC22Y:shared_process": [],
+    "2D1BBV97H:shared_process": [],
+    "2D3VFYR8M:shared_process": [],
+    "2D11M6D36:shared_process": [],
+    "2D44WVN25:shared_process": []
   },
   "config": {},
   "info": {}
