@@ -5,7 +5,7 @@
 	./init_data.sh
 ```
 
-#run zeppelin server
+# run zeppelin server
 ```sh
 	./run.sh
 ```
