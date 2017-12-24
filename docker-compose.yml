@@ -1,0 +1,16 @@
+version: '3'
+services:
+  zeppelin:
+    build: ./zeppelin
+    volumes:
+      - ./zeppelin/helium:/zeppelin/helium
+      - ./zeppelin/data:/zeppelin/data
+      - ./zeppelin/logs:/zeppelin/logs
+      - ./zeppelin/notebook:/zeppelin/notebook
+      - ./zeppelin/conf:/zeppelin/conf
+    ports:
+      - "8081:8080"
+    environment:
+      - ZEPPELIN_LOG_DIR='/zeppelin/logs'
+      - ZEPPELIN_NOTEBOOK_DIR='/zeppelin/notebook'
+      - ZEPPELIN_HELIUM_LOCALREGISTRY_DEFAULT='/zeppelin/helium'

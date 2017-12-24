@@ -1,0 +1,78 @@
+{
+  "authInfo": {
+    "2D2BUBZSS": {
+      "owners": [
+        "admin"
+      ],
+      "readers": [
+        "readOnly"
+      ],
+      "writers": [
+        "admin"
+      ]
+    },
+    "2D3VDU9NB": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D1M92HZ1": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D4NTW88P": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D4T4VFYM": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D27V9MGV": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D4Y3QZHW": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D322ZT8W": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D3XGMM6J": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    },
+    "2D2GAPC3G": {
+      "owners": [
+        "admin1"
+      ],
+      "readers": [],
+      "writers": []
+    }
+  }
+}
