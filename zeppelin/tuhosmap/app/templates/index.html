@@ -1,0 +1,19 @@
+{% load static %}
+{% block head %} 
+  <script src='{% static "js/jquery.min.js"%}'></script>
+  <script src='{% static "leaflet/leaflet.js"%}'></script>
+  <link rel="stylesheet" href='{% static "leaflet/leaflet.css"%}' />
+  <link rel="stylesheet" href='{% static "css/index.css"%}' />
+{% endblock %}
+
+{% block content %}
+  <script type="text/javascript"> 
+    var debts = {{debts | safe}} ;
+    debts = JSON.parse(debts);
+  </script>
+
+  <div class="mycontainer nopadding" style="">
+      <div id="map" class="full-component"> </div>
+  </div>
+  <script src='{% static "js/index.js"%}'></script>
+{% endblock %}
